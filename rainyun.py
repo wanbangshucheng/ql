@@ -133,8 +133,8 @@ class RainYun():
 if __name__ == '__main__':
     accounts = [
         {
-            "user": "1111",  # 账户
-            "password": "11111.."  # 密码
+            "user": "wanbangshucheng",  # 账户
+            "password": "1a2b3c4d5e."  # 密码
         },
         {
             "user": "11111",  # 账户
